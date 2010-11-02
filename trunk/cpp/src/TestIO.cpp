@@ -10,7 +10,7 @@
 
 using namespace std;
 
-int main(int argc, char **argv) {
+int main2() {
 	cout << "Output Text" << "\n";
 
 	cout << "Another Text terminating with New Line" << endl;
