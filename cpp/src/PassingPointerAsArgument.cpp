@@ -25,7 +25,7 @@ public:
 	}
 };
 
-int main() {
+int main5() {
 	MyClass c;
 
 	int* p = new int;

@@ -6,11 +6,11 @@
  */
 
 #include <iostream>
-#include <limits>;
+#include <limits>
 
 using namespace std;
 
-void printRange() {
+int main6() {
 	cout << "char, signed char :";
 	cout << "(" << int(numeric_limits<char>::min()) << " , " << int(
 			numeric_limits<char>::max()) << ")" << endl;
@@ -55,6 +55,9 @@ void printRange() {
 	cout << "long double :";
 	cout << "(" << numeric_limits<long double>::min() << " , "
 			<< numeric_limits<long double>::max() << ")" << endl;
+
+	cout << "long double size:";
+	cout << sizeof(unsigned char);
 
 	cin.get();
 }
