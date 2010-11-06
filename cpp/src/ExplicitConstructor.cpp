@@ -8,7 +8,7 @@ public:
 void f(C) {
 }
 
-int main() {
+int main8() {
 
 	//C c1 = 37; //ERROR!!! The constructor have to be invoked explicitly. No automatic Constructor detection is performed
 	C c2 = C(47); //OK
@@ -23,6 +23,4 @@ int main() {
 
 	//Automatic argument casting is performed
 	C c4 = C(10.0); //OK
-
-
 }
