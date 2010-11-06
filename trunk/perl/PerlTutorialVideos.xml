@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Perl Video Tutorials</title>
+    <link>http://www.scriptsocket.com/videos.php</link>
+    <description>Perl video tutorials for new to advanced programmers.</description>
+    <language>en</language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title>Perl Tutorial 1 - Active Perl, Perl Editor, Hello World (3:46)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?1</link>
+      <description>Part 1 features details on where to download Active Perl, where to download a good Perl Editor and how to say 'Hello World'.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 2 - Program Basics (0:45)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?2</link>
+      <description>Part 2 covers the very basics of scripting. Opening and exiting a program.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 3 - Variables (5:10)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?3</link>
+      <description>Part 3 explains variables with basic examples.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 4 - Arrays: Basics (7:17)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?4</link>
+      <description>Part 4 covers arrays. How to create, print, grow, shrink and empty an array.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 5 - Arrays: push, pop, shift, unshift (5:44)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?5</link>
+      <description>Part 5 covers more array functions. How to push, pop, shift and unshift an array.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 6 - Arrays: merge, reverse, sort (6:43)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?6</link>
+      <description>Part 6 covers more array functions. How to merge, reverse and sort an array.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 7 - Array Tips (4:34)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?7</link>
+      <description>Part 7 offers a few tips and shortcuts for creating arrays.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 8 - Looping Arrays: The Foreach Loop (6:50)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?8</link>
+      <description>Part 8 explains looping arrays with the foreach loop.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 9 - Conditionals: if, elsif, else, unless (5:49)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?9</link>
+      <description>Part 9 shows basic conditional statements: if, elsif, else and unless.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 10 - Operators and Precedence (10:00)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?10</link>
+      <description>Part 10 covers operators and precedence. Addition, multiplication, division, subtraction and auto-increment/auto decrement of numbers.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 11 - Operators and Precedence Continued (8:26)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?11</link>
+      <description>Part 11 covers operators and precedence. Modulus, power of, use integer, ==, !=, eq, ne.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 12 - The While Loop, The Until Loop (8:11)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?12</link>
+      <description>Part 12 explains the while loop and the reverse while loop, the until loop.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 13 - Functions: map, grep (6:52)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?13</link>
+      <description>Part 13 explains the functions map and grep. Examples of how they can be applied to arrays.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 14 - Hashes: Basics (8:16)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?14</link>
+      <description>Part 14 explores hashes. How to create hashes and reference each key/value pair.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 15 - Looping Hashes: keys, values, each (4:43)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?15</link>
+      <description>Part 15 shows how to loop through hashes with the each, keys and values functions.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 16 - Hash Functions: exists, defined, delete (5:41)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?16</link>
+      <description>Part 16 shows hash functions exists, defined and delete.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 17 - Hashes: reverse, sort, merge (6:10)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?17</link>
+      <description>Part 17 shows how to reverse the key/value pairs of a hash, sort hashes and merge hashes.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 18 - Functions: split, join (6:09)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?18</link>
+      <description>Part 18 explains the split and join functions.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 19 - Functions: lc, uc, lcfirst, ucfirst (6:56)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?19</link>
+      <description>Part 19 shows the functions lc, uc, lcfirst, ucfirst and a method to ucfirst every word in a string.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 20 - Functions: length, substr, index, rindex (9:32)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?20</link>
+      <description>Part 20 shows the functions length, substr, index and rindex.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 21 - Random Numbers &amp; Rounding: rand, sprintf (7:54)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?21</link>
+      <description>Part 21 shows how to generate and use random numbers with the rand function and how to round numbers to any decimal place with the sprintf function.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 22 - What's The Time? (8:17)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?22</link>
+      <description>Part 22 shows how to use the time function to format the time simply and in a more advanced way.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 23 - Commenting Your Code (4:58)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?23</link>
+      <description>Part 23 shows how to comment and label your code.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 24 - Regular Expressions: Basics (10:00)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?24</link>
+      <description>Part 24 explains the most basic regular expressions.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 25 - Subroutines: Basics (9:51)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?25</link>
+      <description>Part 25 shows the basics of subroutines. Continue with Perl tutorial 88 next!</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 26 - Open, Read &amp; Close a Text File (6:17)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?26</link>
+      <description>Part 26 shows how to open, read, and close a text file.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 27 - Write To &amp; Append a Text File (6:06)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?27</link>
+      <description>Part 27 shows how to write to and append a text file.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 28 - Rename, Copy &amp; Delete Files, File Size (5:39)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?28</link>
+      <description>Part 28 shows how to rename, copy and delete files. Plus how to use the stat function to get the size of a file.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 29 - Directories: Open, Read, Make &amp; more (7:06)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?29</link>
+      <description>Part 29 shows how to open, read, close, make, change and remove directories.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 30 - Glob Function (7:15)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?30</link>
+      <description>Part 30 explains how to use the glob function to get a list of files in a directory that match a certain extension type, eg .txt files only.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 31 - Upload a Script to a Server: Ascii, chmod (5:19)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?31</link>
+      <description>Part 31 shows the steps to take to upload a perl script to your server. Ascii mode, chmod files and folders.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 32 - Printing a Block of Text (3:26)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?32</link>
+      <description>Part 32 shows how to print a block of text with one print statement.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 33 - File Test Operators: -e, -z, -s, -d (6:52)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?33</link>
+      <description>Part 33 talks about file test operators: -e, -z, -s and -d.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 34 - chmod Function: Set File Permissions (5:50)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?34</link>
+      <description>Part 34 explains the chmod function and how to set read, write and execute permissions for files and folders.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 35 - Sendmail: Send an Email, Rudewords Filter (9:55)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?35</link>
+      <description>Part 35 shows how to use sendmail to send and recieve email from a script securely. Plus, how to remove HTML tags from the email message, and how to create a rudewords filter.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 36 - Create a Form where Method=Post (9:59)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?36</link>
+      <description>Part 36 shows how to create a form for the web where method=post that we will learn how to parse in the next tutorial.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 37 - Parse a Form where Method=Post (6:31)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?37</link>
+      <description>Part 37 shows how to parse the web form from the previous tutorial where method=post and print out the data.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 38 - Create a Form where Method=Get (5:07)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?38</link>
+      <description>Part 38 shows how to create a form for the web where method=get that we will learn how to parse in the next tutorial.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 39 - Parse a Form where Method=Get (7:18)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?39</link>
+      <description>Part 39 shows how to parse the web form from the previous tutorial where method=get and print out the result.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 40 - Create &amp; Parse a Simple Query String (4:09)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?40</link>
+      <description>Part 40 shows how to create and parse a simple and concise query string.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 41 - Environmental Variables (6:34)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?41</link>
+      <description>Part 41 explains how to capture and use environmental variables in your scripts.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 42 - require Function (5:15)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?42</link>
+      <description>Part 42 shows the use of the require function to read information from other scripts.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 43 - Install a Module with CPAN.pm .LOCK NMAKE (9:13)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?43</link>
+      <description>Part 43 shows how to use CPAN.pm to install a perl module on your computer as well as point out some minor problems like the .LOCK file and the NMAKE error and how to fix them.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 44 - LWP::Simple - Get Web Page Source Code (4:07)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?44</link>
+      <description>Part 44 shows how to use the LWP::Simple module to get a web pages source code.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 45 - Fetch, Parse &amp; Convert a Web Page to Text (9:30)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?45</link>
+      <description>Part 45 shows how to use the LWP::Simple ,HTML::TreeBuilder and HTML::FormatText modules to download, parse and format a web page into plain text.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 46 - LWP::UserAgent - Emulate a Browser (5:49)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?46</link>
+      <description>Part 46 shows how to use the LWP::UserAgent module to emulate a browser and download a web pages source code.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 47 - IO::Socket - Connect to a Web Server (7:44)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?47</link>
+      <description>Part 47 shows how to use the IO::Socket module to connect to a web server and download a web page.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 48 - HTML::LinkExtor - Extract Links &amp; Images (7:17)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?48</link>
+      <description>Part 48 shows how to use the HTML::LinkExtor module to extract the links and images from a web page.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 49 - HTML::HeadParser - Extract Title &amp; Meta (7:13)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?49</link>
+      <description>Part 49 shows how to use the HTML::HeadParser module to extract the title, description, keywords, content type meta data etc. from between the head tags of a web page.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 50 - Download a Website to Your Computer (9:59)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?50</link>
+      <description>Part 50 shows how to use several modules to download multiple web pages to html files to view offline on your computer or to create a mirror site.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 51 - Create &amp; Work with a Flat File Database (9:58)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?51</link>
+      <description>Part 51 shows how to create and work with a simple flat file database.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 52 - CGI.pm - Generate HTML on the Fly (7:26)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?52</link>
+      <description>Part 52 explores the CGI.pm module to create html tag shortcuts and to generate html web pages on the fly.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 53 - CGI.pm - Meta, Body, Image, Link &amp; Format (9:43)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?53</link>
+      <description>Part 53 continues to explore the CGI.pm module to create meta tags, body attributes, images, links and formatting.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 54 - CGI.pm - Generate Tables on the Fly (7:00)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?54</link>
+      <description>Part 54 explores the CGI.pm module to create tables.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 55 - CGI.pm - Generate Forms on the Fly (8:02)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?55</link>
+      <description>Part 55 explores the CGI.pm module to create forms starting with a text box, password box, radio buttons and check boxes.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 56 - CGI.pm - Generate Forms Continued (6:19)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?56</link>
+      <description>Part 56 explores the CGI.pm module to create forms continuing with a scroll box, text area, hidden field, submit and reset buttons.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 57 - CGI.pm - Parse a Form (7:18)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?57</link>
+      <description>Part 57 uses the CGI.pm module to parse a form.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 58 - CGI.pm - Generate Frames on the Fly (4:33)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?58</link>
+      <description>Part 58 explores the CGI.pm module to generate a frameset and frames on the fly.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 59 - CGI.pm - Generate an Image Map (9:58)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?59</link>
+      <description>Part 59 explores the CGI.pm module to generate an image map.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 60 - CGI.pm - Set &amp; Read Cookies (5:57)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?60</link>
+      <description>Part 60 explores the CGI.pm module to set and read cookies.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 61 - CGI.pm - File Uploads via Upload Form (9:36)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?61</link>
+      <description>Part 61 explores the CGI.pm module to create an upload form and upload files to your server.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 62 - CGI.pm - Browser Redirection (2:22)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?62</link>
+      <description>Part 62 explores the CGI.pm module to redirect a browser.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 63 - CGI.pm - Return an Image From a Script (7:16)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?63</link>
+      <description>Part 63 explores the CGI.pm module to return an image from a script.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 64 - Benchmark Your Code (9:59)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?64</link>
+      <description>Part 64 shows a few methods to benchmark your code.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 65 - Redirect the Browser with Location (1:45)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?65</link>
+      <description>Part 65 shows how to redirect the browser with Location.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 66 - File::Find - Find Files &amp; Directories (8:44)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?66</link>
+      <description>Part 66 shows how to use the File::Find module to find and search for files and directories on your computer or server.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 67 - Perl Package Manager PPM: Install Modules (3:48)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?67</link>
+      <description>Part 67 shows how to install, remove and upgrade modules with the Perl Package Manager - PPM.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 68 - Date::Calc - Date Functions &amp; Calendar (9:21)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?68</link>
+      <description>Part 68 shows how to use the Date::Calc module to easily create a calendar, work out date differences, print dates, if leap year or not, if a valid time or not and much more.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 69 - File::Compare - Compare 2 Files Contents (5:23)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?69</link>
+      <description>Part 69 shows how to use the File::Compare module to easily check if two files contents are exactly the same.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 70 - Business::CreditCard - Check Credit Cards (6:52)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?70</link>
+      <description>Part 70 shows how to use the Business::CreditCard module to validate a credit card, get card type and generate the last digit checksum number.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 71 - Formats: Create Text Formats (9:30)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?71</link>
+      <description>Part 71 shows how to use Perl formats. Easily left and right justify and center text. Create your own text formats.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 72 - Formats: Text Slices (4:24)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?72</link>
+      <description>Part 72 shows how to use text slices with Perl formats. Easily format a long string of text.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 73 - Formats: Create a Multiline List (5:01)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?73</link>
+      <description>Part 73 shows how to use Perl formats to create a multiline list.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 74 - Formats: Create a Document Header (6:06)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?74</link>
+      <description>Part 74 shows how to use Perl formats to create a document header with a multiline list and write it to file.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 75 - Formats: Create a Multipage Report (8:47)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?75</link>
+      <description>Part 75 shows how to use Perl formats to create a multipage report from a datafile that can be printed out on a printer.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 76 - Formats: Low-Level Formatting - Formline (3:47)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?76</link>
+      <description>Part 76 shows how to use Perl formats to create low-level formatting with the formline function.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 77 - Hard References (7:23)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?77</link>
+      <description>Part 77 shows how to create hard references to variables, arrays, hashes and subroutines and how to de-reference those references and access the data.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 78 - Symbolic References (6:38)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?78</link>
+      <description>Part 78 shows how to create symbolic references to variables, arrays, hashes and subroutines and how to de-reference those references and access the data.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 79 - Typeglobs (6:12)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?79</link>
+      <description>Part 79 shows how to create and use typeglobs.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 80 - Anonymous Arrays, Hashes &amp; Subroutines (4:45)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?80</link>
+      <description>Part 80 shows how to create and use anonymous arrays, hashes and subroutines.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 81 - Reference a Typeglob &amp; Other Data Types (5:23)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?81</link>
+      <description>Part 81 shows how to create and use references to typeglobs and file handles. Also shows some other data types such as lvalue and code.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 82 - References Using the Symbol Table (9:51)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?82</link>
+      <description>Part 82 shows how to create references and de-reference references using the symbol table.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 83 - De-Reference Using the Arrow Operator (9:58)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?83</link>
+      <description>Part 83 shows how to de-reference references using the arrow operator and how to omit the arrow operator when accessing multi-dimensional arrays.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 84 - Pass Multiple Arrays to Sub. by Reference (7:52)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?84</link>
+      <description>Part 84 shows how to pass and return multiple arrays to a subroutine by reference.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 85 - Ref Operater: Determine Data Type (9:56)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?85</link>
+      <description>Part 85 shows how to use the ref operator to determine the type of data that a reference refers to.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 86 - Closures: Initialize Subroutine with Data (3:47)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?86</link>
+      <description>Part 86 explains the use of closures to initialize a subroutine with data before using it and retain the scope of lexical variables.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 87 - Function Templates (3:45)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?87</link>
+      <description>Part 87 shows how to create function templates using closures. A bit like generating subroutines on the fly.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 88 - Declaring Subroutines (6:29)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?88</link>
+      <description>Part 88 shows how to declare subroutines and how to call the subroutine from above or below the subroutine code.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 89 - Subroutine Prototypes (10:01)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?89</link>
+      <description>Part 89 shows how subroutine prototypes work. Define the type of data accepted by a subroutine.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 90 - Reading Arguments Passed to Subroutines (8:34)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?90</link>
+      <description>Part 90 shows some of the ways to read arguments passed to subroutines.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 91 - Returning Values from Subroutines (7:43)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?91</link>
+      <description>Part 91 shows how to return values from subroutines with 'return'.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 92 - Set Scope with My &amp; Local in Subroutines (9:58)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?92</link>
+      <description>Part 92 shows how to set the scope of variables with the 'my' and 'local' keywords in subroutines.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 93 - Arrays of Arrays (9:59)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?93</link>
+      <description>Part 93 shows how to create and use multidimensional arrays of arrays.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 94 - Hashes of Hashes (7:35)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?94</link>
+      <description>Part 94 shows how to create and use multidimensional hashes of hashes.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 95 - Arrays of Hashes (7:50)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?95</link>
+      <description>Part 95 shows how to create and use multidimensional arrays of hashes.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 96 - Hashes of Arrays (6:20)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?96</link>
+      <description>Part 96 shows how to create and use multidimensional hashes of arrays.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 97 - Chop &amp; Chomp (4:42)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?97</link>
+      <description>Part 97 explains and demonstrates the chop and chomp functions.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 98 - STDIN: Read Typed Input (7:30)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?98</link>
+      <description>Part 98 shows how to read typed input with STDIN.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 99 - The For Loop (6:22)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?99</link>
+      <description>Part 99 explains how the 'for' loop works.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 100 - Store Data Structures on Disk (8:45)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?100</link>
+      <description>Part 100 shows how to store data structures on disk with the storable module and how to retrieve them later.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 101 - Data::Dumper - Print Data Structures (6:09)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?101</link>
+      <description>Part 101 uses the Data::Dumper module to print out data structures.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 102 - Copy a Data Structure (4:38)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?102</link>
+      <description>Part 102 shows how to copy data structures.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 103 - Write &amp; Read a Database File (9:50)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?103</link>
+      <description>Part 103 shows how to write and read a database file.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 104 - Sort Databases (9:22)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?104</link>
+      <description>Part 104 shows how to sort databases.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 105 - Text File Database (6:03)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?105</link>
+      <description>Part 105 shows how to create a text file database.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 106 - Encryption Using Crypt Function (7:53)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?106</link>
+      <description>Part 106 uses the crypt function to encrypt a string.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 107 - Pattern Matching: Pre-Match / Post-Match (4:58)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?107</link>
+      <description>Part 107 uses predefined variables in pattern matching to find a match, pre-match and post-match in a string.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 108 - Output Field Separators (4:16)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?108</link>
+      <description>Part 108 uses the predefined variables output field separators for the print operator and array values.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 109 - Current Input Line Number (5:17)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?109</link>
+      <description>Part 109 makes use of the current input line number predefined variable to count or fetch a number of records from a file.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 110 - Output Record Separator (4:12)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?110</link>
+      <description>Part 110 uses the output record separator predefined variable to separate records easily.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 111 - Default Variable (8:36)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?111</link>
+      <description>Part 111 explains the default variable which is the most used predefined variable in perl.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 112 - Regex: Match a Digit, Word &amp; White Space (10:00)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?112</link>
+      <description>Part 112 demonstrates some regular expressions such as matching the beginning and end of a line, match a digit, match a word character, match white space and match any character.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 113 - Regex: Character Classes (10:01)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?113</link>
+      <description>Part 113 demonstrates regular expressions character classes.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 114 - Regex: Alternative Match Patterns (7:58)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?114</link>
+      <description>Part 114 demonstrates regular expressions alternative match patterns.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 115 - Regex: Quantifiers (10:00)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?115</link>
+      <description>Part 115 demonstrates regular expressions quantifiers.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 116 - Regex: Assertions (9:34)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?116</link>
+      <description>Part 116 demonstrates the use of regular expressions assertions.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 117 - Regex: Backreferences (7:47)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?117</link>
+      <description>Part 117 demonstrates the use of regular expressions backreferences to refer to previous successful matches.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 118 - Regex: Backreferences Continued (5:52)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?118</link>
+      <description>Part 118 demonstrates the use of regular expressions backreferences to refer to previous matches, 2nd part.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 119 - Regex: Lookahead &amp; Lookbehind Assertions (6:47)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?119</link>
+      <description>Part 119 demonstrates the use of regular expressions lookahead and lookbehind assertions.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 120 - Regex: pos Function and \G Assertion (9:56)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?120</link>
+      <description>Part 120 demonstrates the use of regular expressions pos function and the \G assertion.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 121 - Regex: e Modifier - Make Function Calls (6:16)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?121</link>
+      <description>Part 121 demonstrates how to use function calls and expressions inside regular expressions with the e modifier.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 122 - Regex: ee Modifier (7:23)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?122</link>
+      <description>Part 122 demonstrates the use of the ee modifier in regular expressions.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 123 - Regex: x Modifier - Add Comments (5:33)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?123</link>
+      <description>Part 123 shows how to use the x modifier in regular expressions to allow whitespace and comments to make regex's easier to read and understand.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 124 - Regex: o Modifier - Compile Pattern Once (4:05)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?124</link>
+      <description>Part 124 shows how to use the o modifier in regular expressions to compile the regex only once.</description>
+    </item>
+    <item>
+      <title>Perl Tutorial 125 - Regex: qr Operator - Compile Expressions (8:25)</title>
+      <link>http://www.scriptsocket.com/videotutorial.php?125</link>
+      <description>Part 125 shows how to use the qr operator to create compiled regular expressions.</description>
+    </item>
+  </channel>
+</rss>
