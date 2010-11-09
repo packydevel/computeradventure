@@ -50,7 +50,7 @@ public:
     void setAge(int age);
 };
 
-int main()
+int main9()
 {
 	foo();
 	int x = 5;
@@ -93,7 +93,7 @@ int main()
 	int r[] = {1,2,3};
 	int s[3];
 
-	s=r;
+	//s=&r;
 
 }
 
