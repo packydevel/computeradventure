@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main10() {
 
 	int x = 0;
 	int& rx = x; //You must declare and define at the same time the reference variable
