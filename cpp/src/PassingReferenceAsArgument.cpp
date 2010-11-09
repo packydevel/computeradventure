@@ -20,7 +20,7 @@ int& danglingReference() {
 	return x; //Warning!!! The variable q is destroyed when g finish, so q is a dangling reference
 }
 
-int main() {
+int main11() {
 	int x = 0;
 	int y;
 
