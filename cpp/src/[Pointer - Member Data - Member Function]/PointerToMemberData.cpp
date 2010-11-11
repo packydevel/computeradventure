@@ -76,7 +76,6 @@ int main18() {
 	cout << "The value of the ssmp is: " << ssmp << endl;
 	cout << "The value of the scmp is: " << scmp << endl;
 
-
 	//Pointer to member struct or class have some limitations:
 	//
 	//1)
