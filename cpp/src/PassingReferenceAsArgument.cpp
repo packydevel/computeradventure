@@ -29,7 +29,7 @@ int main11() {
 	cout << "The value of x is: " << x << endl;
 
 	//The argument passed is the number 1 but it is a temporary user constant.
-	//In this case the function validReference cannot manipu late the argument
+	//In this case the function validReference cannot manipulate the argument
 	//passed because it doesn't know the memory address of the argument passed
 	//by reference since it is a constant.
 	//This case will generate a compile-time error.

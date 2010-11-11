@@ -16,6 +16,11 @@ int* getDanglingPointer(int* p) {
 	return newp;
 }
 
+int* getAnotherDanglingPointer(int* p) {
+	delete p;
+	return p;
+}
+
 int main7() {
 
 	int x = 0;
