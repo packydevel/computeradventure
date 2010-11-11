@@ -27,7 +27,7 @@ public:
 	}
 };
 
-int main() {
+int main19() {
 	int x = 0;
 
 	SimpleStruct ss;
