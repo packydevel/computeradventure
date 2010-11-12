@@ -57,6 +57,6 @@ volatile int k;
 
 volatile int f(volatile int* i);
 
-int main() {
+int main26() {
 
 }
