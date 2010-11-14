@@ -1,4 +1,5 @@
 #include <iostream>
+/*
 using namespace std;
 
 template<class T>
@@ -21,7 +22,7 @@ void TemplateClass<T>::setT(T t) {
 	this->t = t;
 }
 
-int main() {
+int main29() {
 	TemplateClass<int> tci(0);
 	TemplateClass<float> tcf(0.1);
 
@@ -34,3 +35,4 @@ int main() {
 	cout << "The member tci.t is: " << tci.getT() << endl;
 	cout << "The member tcf.t is: " << tcf.getT() << endl;
 }
+*/
