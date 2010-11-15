@@ -29,4 +29,6 @@ public:
 int main30() {
 	BaseClass bc(0);
 	DerivedClass dc(0);
+
+	//dc.protectedFunction(); perchè non funziona???
 }

@@ -41,7 +41,7 @@ class DerivedClass4FromBaseClass: public BaseClass {
 	//No overriding. No ridefinition.
 };
 
-int main() {
+int main32() {
 	BaseClass bc;
 	bc.baseFunction();
 	bc.baseFunction(0);
