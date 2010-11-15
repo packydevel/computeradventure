@@ -6,12 +6,12 @@ using namespace std;
 class CLASS_NAME { \
 public: \
 	CLASS_NAME(int i) { \
-		cout << "Executing Constructor CLASS_NAME(int) of class: " \
-				<< "CLASS_NAME" << endl; \
+		cout << "Executing Constructor "<< #CLASS_NAME << "(int) of class: " \
+				<< #CLASS_NAME << endl; \
 	} \
 \
 	~CLASS_NAME() { \
-		cout << "Executing Destructor of class: " << "CLASS_NAME" << endl; \
+		cout << "Executing Destructor of class: " << #CLASS_NAME << endl; \
 	} \
 };
 
@@ -42,6 +42,11 @@ public:
 				<< "Executing Constructor DerivedClassFromBaseClass(int) of class: "
 				<< "DerivedClassFromBaseClass" << endl;
 	}
+
+	~DerivedClassFromBaseClass() {
+		cout << "Executing Destructor of class: "
+				<< "DerivedClassFromBaseClass" << endl;
+	}
 };
 
 class DerivedClassFromDerivedClass: public DerivedClassFromBaseClass {
@@ -54,9 +59,21 @@ public:
 				<< "Executing Constructor DerivedClassFromDerivedClass(int) of class: "
 				<< "DerivedClassFromDerivedClass" << endl;
 	}
+
+	~DerivedClassFromDerivedClass() {
+		cout << "Executing Destructor of class: "
+				<< "DerivedClassFromDerivedClass" << endl;
+	}
 };
 
-int main() {
-	cout << "prova";
+//Observe:
+//1) The constructors order call is executed from the root of base class up to
+//   members.
+//2) The constructors order call for member objects follows the members declaration
+//   order.
+//3) The constructors order call is regardless of the order of the constructor
+//   initialization list.
+//4) The destructors order call is the reverse order of the constructors order call
+int main31() {
 	DerivedClassFromDerivedClass dcfdc(0);
 }
