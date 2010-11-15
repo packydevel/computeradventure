@@ -1,8 +1,9 @@
-#include <iostream>
 /*
+#include <iostream>
+
 using namespace std;
 
-template<class T>
+template<class T, int k = 0>
 class TemplateClass {
 	T t;
 public:
@@ -17,14 +18,14 @@ public:
 	void setT(T t);
 };
 
-template<class T>
-void TemplateClass<T>::setT(T t) {
+template<class T, int k = 0>
+void TemplateClass<T,k>::setT(T t) {
 	this->t = t;
 }
 
-int main29() {
-	TemplateClass<int> tci(0);
-	TemplateClass<float> tcf(0.1);
+int main() {
+	TemplateClass<int,1> tci(0);
+	TemplateClass<float,1> tcf(0.1);
 
 	cout << "The member tci.t is: " << tci.getT() << endl;
 	cout << "The member tcf.t is: " << tcf.getT() << endl;

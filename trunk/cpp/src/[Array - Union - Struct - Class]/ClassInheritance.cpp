@@ -15,7 +15,7 @@ public:
 		privateInt(i) {
 	}
 	int publicInt;
-	void publicFunction();
+	void publicFunction(){};
 };
 
 class DerivedClass: public BaseClass {
@@ -29,6 +29,4 @@ public:
 int main30() {
 	BaseClass bc(0);
 	DerivedClass dc(0);
-
-	dc.publicFunction();
 }
