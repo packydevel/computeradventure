@@ -33,7 +33,7 @@ void f(int i, int j, int k, int l, int m = 0, int n = 0) {
 	cout << "Calling f(int i, int j, int k, int l, int m = 0, int n = 0)" << endl;
 }
 
-int main() {
+int main35() {
 	//f(); //ERROR!!! Ambiguous invocation.
 
 	//f(0); //ERROR!!! Ambiguous invocation.
