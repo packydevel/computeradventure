@@ -84,16 +84,16 @@ int main18() {
 	//void SimpleClass::* cp;
 	//
 	//2)
-	//It is not possible for a pointer to member of specificied struct or class to point
+	//It is not possible for a pointer to member of specified struct or class to point
 	//to a member of another struct or class although the member type is equal.
-	//This type of assignement will cause a compile-time error
+	//This type of assignment will cause a compile-time error
 	//ssmp = &SimpleClass::a; //ERROR!!!
 	//scmp = &SimpleStructure::a; //ERROR!!!
 	//
 	//3)
 	//It is not possible to execute arithmetic operation with such a pointer
 	//ssmp++; //ERROR!!!
-	//scmp++; //ERRRO!!!
+	//scmp++; //ERROR!!!
 	//
 	//4)
 	//It is not possible to compare two pointer to member struct or class each other

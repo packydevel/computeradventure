@@ -43,7 +43,7 @@ public:
 	CopyConstructorClass(const CopyConstructorClass& c) {
 		objectCount++;
 		cout
-				<< "CopyConstructor CopyConstructorClass(const CopyConstructorClass& c) is called"
+				<< "copyconstructor CopyConstructorClass(const CopyConstructorClass& c) is called"
 				<< endl;
 		cout
 				<< "The Number of The Objects of the Class CopyConstructorClass is: "
@@ -103,8 +103,4 @@ int main15() {
 	//But BitCopyClass have not copyconstructor so the compiler will generate automatically a default
 	//copyconstructor that will perform a bitcopy.
 	Composite ci2 = ci1;
-
-	cout
-			<< "Creating object h2 on the stack through the call to Function f ..."
-			<< endl;
 }
