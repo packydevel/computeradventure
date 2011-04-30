@@ -12,12 +12,31 @@ int& validReference(int& x) {
 }
 
 int validConstantReference(const int& x) {
-	return x+1;
+	return x + 1;
 }
 
 int& danglingReference() {
 	int x = 10;
 	return x; //Warning!!! The variable q is destroyed when g finish, so q is a dangling reference
+}
+
+class C {
+public:
+	int x;
+
+	void constMemberFunction() const {
+	}
+
+	void nonconstMemberFunction() {
+	}
+};
+
+void validObjectConstantReference(const C& c) {
+	//c.x = 10; //ERROR!!! x is non const member of class C
+
+	c.constMemberFunction(); //OK. Called a const memmber function
+
+	//c.nonconstMemberFunction(); //ERROR!!! Called a non-const member function of class C
 }
 
 int main11() {
@@ -51,8 +70,11 @@ int main11() {
 
 	cout << "The value of x is: " << x << endl;
 
+	C c;
+
+	validObjectConstantReference(c);
+
 	y = danglingReference();
 
 	cout << "The value of y is: " << y << endl;
 }
-

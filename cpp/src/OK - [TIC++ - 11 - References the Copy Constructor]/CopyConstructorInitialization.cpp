@@ -36,8 +36,8 @@ int C::objectCount = 0;
 //Passing and returning Object By Value.
 //In this case any object passed to the function f if copyconstructed to c so the copyconstructor
 //is invoked.
-//Then the objectCount is not incremented.
-//Instead the destructor is invoked when function f finish because the variable c is
+//Then the objectCount is incremented.
+//The destructor is invoked when function f finish because the variable c is
 //in local scope and it does not exist anymore outside this scope and so must be destroyed
 C f(C c) {
 	return c;
@@ -60,4 +60,13 @@ int main14() {
 	//h2 copyconstructed from the return value of the function f so the copyconstructor is invoked.
 	//Then the objectCount is not incremented.
 	C h2 = f(h1);
+
+	//In this case the return value of the function f is not used so the compiler creates a
+	//temporary object using the copyconstructor
+	f(h1);
+
+	//In this case the return value of the function f is not used so the compiler creates a
+	//temporary object and the passes this temporary object to the same function and
+	//always is used the copyconstructor
+	f(f(h1));
 }

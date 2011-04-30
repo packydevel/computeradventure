@@ -39,7 +39,10 @@ int main19() {
 
 	//The pointer ssmfp can be initialized with the address of a member function of the struct SimpleStruct
 	//that accept an int parameter.
-	//In this case ssmfp is initialized with the address of the f function member of the struct SimpleStruct.
+	//In this case ssmfp is initialized with the address of the f1 function member of the struct SimpleStruct.
+	//In the case of overloading of member function f1 there are no problems because the compiler knows how to
+	//point the correct member function through the sign of the member function used in the definition of
+	//pointer to member function
 	ssmfp = &SimpleStruct::f1;
 
 	cout << "The value of ss.f1(x) is: " << ss.f1(x) << endl;

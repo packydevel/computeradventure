@@ -10,7 +10,7 @@ static int fileScopeVariable; // explicitly static (internal linkage, file scope
 // the same goes for functions (but there are no const functions)
 int foo(); // extern by default (external linkage)
 
-static int bar(); // explicitly static (internal linkage, fole scope)
+static int bar(); // explicitly static (internal linkage, file scope)
 
 //Anonymous namespace hides for external linkage
 namespace {
@@ -28,7 +28,7 @@ enum SimpleEnum {
 	Up, Down
 }; // extern by default (external linkage)
 
-//Anonynous union most be static (internal linkage, fole scope)
+//Anonynous union most be static (internal linkage, file scope)
 static union {
 	int x;
 	float y;
